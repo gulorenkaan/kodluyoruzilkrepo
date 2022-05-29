@@ -21,7 +21,7 @@ LICENSE
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
+![projemin resmi](ödev.jpg)
 
 
 
